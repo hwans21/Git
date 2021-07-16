@@ -2,3 +2,4 @@ prac1 파일입니다.
 ets
 
 2subtanker수정함
+nothwans21수정함
